@@ -1,0 +1,40 @@
+[APP] Called
+[APP] Starting application
+[SUPABASE] Listening...
+[SERVER] Discarding server...
+[APP] Started applications with errors: []
+[DLL] Asking for C:\Program Files\Reboot Launcher\dlls\console.dll(silent: false)
+[DLL] File name: console.dll
+[DLL] File already exists
+[DLL] Asking for C:\Program Files\Reboot Launcher\dlls\starfall.dll(silent: false)
+[DLL] File name: starfall.dll
+[DLL] File already exists
+[DLL] Asking for C:\Program Files\Reboot Launcher\dlls\reboot.dll(silent: false)
+[DLL] File name: reboot.dll
+[DLL] Downloading reboot.dll...
+[DLL] Asking for C:\Program Files\Reboot Launcher\dlls\rebootS20.dll(silent: false)
+[DLL] File name: reboots20.dll
+[DLL] Downloading reboot.dll...
+[WINDOW] Event: focus true
+[WINDOW] Event: show true
+[SERVER] Discarded server
+[SUPABASE] New event: {Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer', Instance of 'FortniteServer'}
+[WINDOW] Event: moved true
+[WINDOW] Event: minimize true
+[WINDOW] Event: blur true
+[WINDOW] Event: focus true
+[WINDOW] Event: restore true
+[WINDOW] Event: minimize true
+[WINDOW] Event: blur true
+[WINDOW] Event: focus true
+[WINDOW] Event: restore true
+[WINDOW] Event: blur false
+[WINDOW] Event: focus true
+[WINDOW] Event: minimize true
+[WINDOW] Event: blur true
+[WINDOW] Event: focus true
+[WINDOW] Event: restore true
+[SERVER] Discarding server...
+[WINDOW] Event: close false
+[WINDOW] Event: hide false
+[WINDOW] Event: blur false
